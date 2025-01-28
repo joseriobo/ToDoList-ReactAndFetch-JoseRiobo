@@ -86,6 +86,14 @@ form{
     padding: 0; 
     margin: 0;  
     list-style: none;
+    margin-bottom: 5px;
+    
+    border-radius: 100px;
+    left: 0;
+    padding: 4px; 
+    margin: 4px;
+   
+    
 }
 .toDo{
     margin-bottom: 5px;
